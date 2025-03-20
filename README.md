@@ -12,8 +12,8 @@ The **30 Days of Code** is a coding challenge by HackerRank that helps improve p
 Each day's solution is stored in a separate folder named `DayXX`, where `XX` represents the day number.  
 
 ## 🚀 Progress  
-✅ Completed Days: `X/30`  
-📅 Challenge Start Date: `[Your Start Date]`  
+✅ Completed Days: `6/30`  
+📅 Challenge Start Date: `[16/03/2025]`  
 
 ## 🔗 Useful Links  
 - [HackerRank - 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)  
